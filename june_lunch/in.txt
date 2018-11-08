@@ -1,0 +1,7 @@
+3
+6 3
+aabbcc
+5 2
+abccc
+4 3
+aabb
